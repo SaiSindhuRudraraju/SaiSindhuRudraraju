@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Sai Sindhu Rudraraju
 
-💻 Full-Stack Developer | .NET | Java Spring | Angular | React | Python  
+💻 Full-Stack Developer | .NET | C# | Java | Spring | Angular | React | Python  
 🚀 I design and build scalable, clean, and secure web applications across the full stack.  
 🌱 I believe in continuous learning, writing maintainable code, and solving real-world problems with elegant solutions.  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sai-sindhu-rudraraju) • [Email](mailto:saisindhu2311@gmail.com)
+📫 Reach me: 💼 Connect with me on LinkedIn - [Sai Sindhu Rudraraju](https://www.linkedin.com/in/sai-sindhu-rudraraju) • 
+✉️ Email me at [saisindhu2311@gmail.com](mailto:saisindhu2311@gmail.com)
 
 ---
 
@@ -43,13 +44,10 @@ A document scanning and archiving system developed for use in hotels, airports, 
 - Build scalable, production-ready microservices  
 - Contribute meaningfully to open-source projects  
 - Deepen expertise in DevOps, CI/CD, and cloud-native architectures  
-- Mentor junior developers and grow through community collaboration  
+- Expand knowledge in AI/ML and modern software development trends   
 
 ---
 
-> _"Strive not to be a success, but rather to be of value." – Albert Einstein_
+> _"Success is the sum of small efforts, repeated day in and day out." – Robert Collier_
 
 ---
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sai-sindhu-rudraraju" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sai-sindhu-rudraraju?trk=profile-badge">Sai Sindhu Rudraraju</a></div>
