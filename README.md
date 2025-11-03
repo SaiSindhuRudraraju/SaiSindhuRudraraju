@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F78FB3&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Sai+Sindhu+Rudraraju;Full+Stack+Developer;Passionate+about+clean+architecture+and+scalable+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F78FB3&center=true&vCenter=true&width=900&lines=Hi+there+👋+I%27m+Sai+Sindhu+Rudraraju;Full+Stack+Developer;Passionate+about+clean+architecture+and+scalable+systems" />
 </p>
 
 ---
