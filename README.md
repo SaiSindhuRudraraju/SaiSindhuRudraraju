@@ -26,7 +26,7 @@ I’m a **Full Stack Developer** who enjoys building **clean, scalable, and main
 
 ### 🌷 Selected Projects & Experience
 
-#### 💡 Enterprise Simulation & Learning Platform (Client: Global Energy Organization)
+#### 💡 XpertSim - Enterprise Simulation & Learning Platform (Client: Unique IT Solutions, End Client: Baker Hughes - Global Energy Organization)
 
 A large-scale multi-role simulation platform used to run business strategy exercises and analyze real-time performance outcomes.
 
