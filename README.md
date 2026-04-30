@@ -81,11 +81,6 @@ Converted a desktop-based reporting workflow into a web-based application with c
 ### 🌻 Professional Journey
 
 <details>
-<summary>🌿 Software Developer — Unique IT Solutions [Contract] (2025 – Present) | Texas</summary>
-Work on enterprise-scale training simulation platform for a global client.
-</details>
-
-<details>
 <summary>🌿 Software Developer — SanPro Technologies Inc (2024 – Present) | Texas</summary>
 Employee & workflow management platforms; internal systems automation.
 </details>
